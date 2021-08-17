@@ -8,6 +8,7 @@ I am from Tampa, Florida :palm_tree:. I enjoy playing games with my friends, lis
  - Personality
  - Teams/Teamwork
  - Leadership
+ - Psychometrics
 
 ### My skills include :briefcase::
  - R programming

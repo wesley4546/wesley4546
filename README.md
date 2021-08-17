@@ -12,7 +12,6 @@ I am from Tampa, Florida :palm_tree: and enjoy playing games with my friends, li
 ### My skills include :briefcase::
  - R programming
  - Python
- - Data Visualizaton
 
 I look forward to learning more about statistics and other psychometric methods through-out my program.
 

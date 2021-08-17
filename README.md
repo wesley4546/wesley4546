@@ -14,7 +14,7 @@ I am from Tampa, Florida :palm_tree: and enjoy playing games with my friends, li
  - Python
  - Data Visualizaton
 
-
+I look forward to learning more about statistics and other psychometric methods through-out my program.
 
 <!--
 **wesley4546/wesley4546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

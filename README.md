@@ -5,9 +5,9 @@ I am currently a Ph.D. Student at the [University of South Florida](www.usf.edu)
 I am from Tampa, Florida :palm_tree:. I enjoy listening to music, and whenever I can, outdoor activites (hiking, rock climbing, etc.)
 
 ### My research interests :books::
- - Personality
+ - Motivation
  - Teams/Teamwork
- - Leadership
+ - Personality
  - Psychometrics
 
 ### My skills include :briefcase::
